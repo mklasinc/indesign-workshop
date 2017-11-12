@@ -1,0 +1,83 @@
+GLOBAL CHECKLIST 
+- folder setup
+- preferences
+- document setup
+- tools
+- layers
+- color
+- guides
+- text 
+- - - - - - - - - - - - - - - - -  play with text
+- images
+- - - - - - - - - - - - - - - - -  play with image
+- tables and lists
+- - - - - - - - - - - - - - - - -  create your own poster
+- export
+
+
+/////////////////////////////////////////////////////////////////////////////
+
+SPECIFIC CHECKLIST
+
+FOLDER SETUP
+- specific folder
+- assets
+- process 
+- deliverables
+- exports
+
+PREFERENCES
+- units to inches
+
+DOCUMENT SETUP
+- size, orientation, bleed
+
+TOOLS
+- selection tool
+- direct selection tool
+- frame tool
+- text frame tool
+- eye dropper
+
+LAYERS
+- naming
+- grouping
+- moving forward and back
+- move to other layers
+
+COLORS
+- pick
+- swatches
+
+GUIDES
+- layout
+- columns + rows + gutter
+- rulers + guides in a separate folder
+- so you can lock a layer
+
+TEXT
+- create frame box (object > text frame options)
+- separate into columns
+- create paragraphs style (characteristics, indent, columns)
+
+IMAGE 
+- place file
+- fit content to frame: object > fitting > fit content to frame [ cmd + alt + shift + E ] 
+
+TABLE
+- create text frame - table
+- create a bullet point list
+
+EXPORT
+- package
+- export as pdf
+- send to printer- fit content to frame: object > fitting > fit content to frame [ cmd + alt + shift + E ] 
+
+CREATE A POSTER
+- title
+- researchers
+- paragraphs
+- 
+
+
+

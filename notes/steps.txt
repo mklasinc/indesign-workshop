@@ -47,6 +47,7 @@ STYLE
 - redefine style
 - indent [ how much space comes after ] 
 - select how many columns you want [object > text frame options // cmd + B }
+
 - drop cap?
 
 
