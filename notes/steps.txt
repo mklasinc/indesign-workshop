@@ -1,0 +1,52 @@
+PREFERENCES 
+- units [change to inches]
+
+////////////////////////////////////////////////////////////
+
+DOCUMENT SETUP
+- size settings
+- set bleed
+
+////////////////////////////////////////////////////////////
+
+TOOLS
+- selection tool
+- direct selection tool
+- text tool
+- frame tool
+- rectangle tool
+- hand tool
+
+////////////////////////////////////////////////////////////
+
+WORK
+
+
+IMAGE FRAME
+- place image into frame [ cmd + D ] 
+- fit content to frame: object > fitting > fit content to frame [ cmd + alt + shift + E ] 
+
+
+CONTENT
+- abstract
+- context
+- method
+- results
+- interpretation
+- conclusions
+
+DISPLAY
+- view > display performance > high quality display
+
+TEXT
+- create text frame
+- create paragraph styles
+
+STYLE
+- define characteristics [ paragraph, character ] 
+- redefine style
+- indent [ how much space comes after ] 
+- select how many columns you want [object > text frame options // cmd + B }
+- drop cap?
+
+
